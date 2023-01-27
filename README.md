@@ -1,2 +1,3 @@
 # ACMP_Full
-I am trying to complete all ACMP.ru tasks
+
+Здесь я пытаюсь решить все задания с сайта acmp.ru
